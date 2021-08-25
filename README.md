@@ -1,1 +1,3 @@
 # Face-recognization-Attendance-based-system
+This project is used for marking attendance
+with the help of face.The system is developed for deploying an easy and a secure way of taking down attendance. The software first captures an image of all the authorized persons and stores the information into database. The system then stores the image by mapping it into a face coordinate structure. Next time whenever the registered person enters the premises the system recognizes the person and marks his attendance along with the time. It the person arrives late than his reporting time, the system speaks a warning “you are xx minutes late! 
